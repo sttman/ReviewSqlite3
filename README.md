@@ -1,2 +1,2 @@
 # ReviewSqlite3
-On the basis of FMDB, we added some SQL statements for easy storage.
+On the basis of FMDB, me added it some SQL statements for easy storage app data.
